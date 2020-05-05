@@ -1,0 +1,15 @@
+Create a file called fibo.py
+
+Define two functions  checkfibo() and genfibo()
+checkfibo()  ---> check whether a number is in the fibonacci range
+genfibo() ---> generated the first N fibonacci numbers
+
+Write some test code
+
+-----------------------------------------------
+
+Create another file call fiboproject.py
+
+Get a range from the user
+
+print all the fibonacci numbers occuring in that range
